@@ -1,0 +1,24 @@
+{
+  "name": "ki-my-first-module",
+  "version": "1.0.0",
+  "description": "first module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KiMinJin/ki-my-first-module.git"
+  },
+  "keywords": [
+    "nts",
+    "uit",
+    "ki"
+  ],
+  "author": "ki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KiMinJin/ki-my-first-module/issues"
+  },
+  "homepage": "https://github.com/KiMinJin/ki-my-first-module#readme"
+}
